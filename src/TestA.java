@@ -5,4 +5,3 @@ public class TestA {
         System.out.println(a + b);
     }
 }
-
